@@ -16,7 +16,7 @@ public class Kangjinyoung {
         System.out.println();
         System.out.println("계산결과는 '" + (num1 * num2) + "' 입니다.");
         System.out.println();
-        System.out.println("추가로 원하시는 기능의 이름 입력하세요 : ");
+        System.out.print("추가로 원하시는 기능의 이름을 입력하세요 : ");
 
 
 
