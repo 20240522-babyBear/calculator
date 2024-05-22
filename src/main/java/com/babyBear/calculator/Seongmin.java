@@ -15,6 +15,6 @@ public class Seongmin {
         System.out.println();
         System.out.println("나눈 몫은 '" + (num1 / num2) + "' 이고 나머지는 '" + (num1 % num2) + "' 입니다.");
         System.out.println();
-        System.out.println("추가로 원하시는 기능의 이름을 입력하세요 : ");
+        System.out.print("추가로 원하시는 기능의 이름을 입력하세요 : ");
     }
 }
