@@ -8,9 +8,9 @@ public class Yanghyeyeon {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out.print("더하기 할 첫번째 값을 입력해주세요 : ");
+        System.out.print("피감수를 입력해주세요 : ");
         double num1 = sc.nextDouble();
-        System.out.print("더하기 할 두번째 값을 입력해주세요 : ");
+        System.out.print("감수를 입력해주세요 : ");
         double num2 = sc.nextDouble();
 
         System.out.println();
@@ -18,8 +18,6 @@ public class Yanghyeyeon {
         System.out.println();
 
         System.out.println("추가로 원하시는 기능의 이름 입력하세요 : ");
-
-
 
 
     }
