@@ -19,6 +19,5 @@ public class Kangjinyoung {
         System.out.print("추가로 원하시는 기능의 이름을 입력하세요 : ");
 
 
-
     }
 }
